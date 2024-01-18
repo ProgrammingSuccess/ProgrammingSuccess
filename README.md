@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ProgrammingSuccess (a.k.a. Andrew BROWN)
+- 👀 I’m interested in launching this new chapter of my career in Data Science
+- 🌱 I’m currently learning Data Science with HyperionDev
+- 💞️ I’m looking to collaborate on any related projects, particularly where I can bring in my existing knowledge, experience, and people management skills
+- 📫 How to reach me andrew@educationabc.co.uk or +44 7779 021 464
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My first computer program was back in the early 1980s, developing a Christmas Tree (with flashing lights!) which displayed on our TV screen, using a Sinclair computer!
